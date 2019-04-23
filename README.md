@@ -39,7 +39,7 @@ Not all these things are mandatory for every talk, but considering them will mak
 
 ### Redistribution concerns
 
-* ☐ Can the slides be misread when viewed without context provided by the speaker? 
+* ☐ Are the slides impossible to be misread when viewed without context provided by the speaker? Could a screenshot of the slide be shared without causing confusion?
 * ☐ Is there an attribution for all media in the slide deck? Has any questionable, possibly copyrighted content been vetted? 
 * ☐ Is any third party content attributed to the correct author(s)?
 
