@@ -1,6 +1,6 @@
 # What is this?
 
-This is a checklist for presenters to ensure that their talk materials are ready for an inclusive, accessible and actionable presentation. It is based on years of experience presenting in lots of different countries, to diverse audiences at at conferences with translation and transcription. They are meant to remind presenters to be prepared for anything going wrong. 
+This is a checklist for presenters to ensure that their talk materials are ready for an inclusive, accessible and actionable presentation. It is based on years of experience presenting in lots of different countries, to diverse audiences at conferences with translation and transcription. They are meant to remind presenters to be prepared for anything going wrong. 
 
 Not all these things are mandatory for every talk, but considering them will make you a better and more relaxed presenter.
 
