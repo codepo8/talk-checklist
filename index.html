@@ -47,6 +47,21 @@
             opacity: 0.1;
             transition: 400ms;
         }
+        section.fade {
+            opacity: 1;
+        }
+        section.fade ul {
+            display: none;
+        }
+        section.fade h2 {
+            padding-left: 1.2em;
+            position: relative;
+        }
+        section.fade h2::before {
+            content: '✅';
+            position: absolute;
+            left: 0;
+        }
 
     </style>
 </head>
